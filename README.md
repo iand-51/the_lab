@@ -4,7 +4,7 @@ A place to experiment and tinker
 
 The files in this repository were used to configure the network depicted below.
 
-https://github.com/iand-51/the_lab/blob/1e6132ded7cb513cf0640cd67ce180d954eb3588/Diagrams/Azure%20diagram%201.drawio.png
+![alt text](https://github.com/iand-51/the_lab/blob/52275bf45c6b0b0943c95468d51040087aef984d/Diagrams/Azure%20diagram%201.drawio.png?raw=true)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML/playbook file may be used to install only certain pieces of it, such as Filebeat.
 
